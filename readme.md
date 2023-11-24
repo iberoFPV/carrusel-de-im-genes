@@ -1,6 +1,7 @@
 # Project: Image Carousel with Python and Tkinter
 
-This repository contains a simple image carousel implemented in Python using the Tkinter library and the Pillow extension for working with images.
+This repository contains a simple image carousel implemented in Python using the Tkinter library and the
+Pillow extension for working with images.
 
 ## Features
 
@@ -9,7 +10,8 @@ This repository contains a simple image carousel implemented in Python using the
 
 ## Requirements
 
-Make sure you have Python installed on your system. Additionally, you need to install the `tkinter` library, which is usually included with Python, and the `Pillow` module for working with images.
+Make sure you have Python installed on your system. Additionally, you need to install the `tkinter` library,
+which is usually included with Python, and the `Pillow` module for working with images.
 
 You can install Pillow using the following command:
 
@@ -44,11 +46,13 @@ Click the "-->" button to go forward in the image sequence.
 
 ## Image
 
-The images used in this carousel are placeholders and can be replaced with your own images. Make sure to update the file paths accordingly in the Python script.
+The images used in this carousel are placeholders and can be replaced with your own images.
+Make sure to update the file paths accordingly in the Python script.
 
 ## Contributions
 
-Contributions are welcome! If you encounter any issues or have improvements to suggest, please open an issue or submit a pull request.
+Contributions are welcome! If you encounter any issues or have improvements to suggest,
+please open an issue or submit a pull request.
 
 ## License
 
